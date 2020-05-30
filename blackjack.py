@@ -18,7 +18,7 @@ while True:
     else:
         begin = False
 
-playerpopint = 0
+playerpoint = 0
 computerpoint = 0
 
 
